@@ -30,8 +30,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on Next.js Projects, including an online Pet Store
-- I'm currently learning: Next.js, CSS Tailwind, UI Design,
+- I'm currently working on a few Next.js Projects, including an online Pet Store
+- I'm currently learning: Next.js
+- Coming Soon to projects:
+  1. Pet Kingdom (pet store app) - January 2024
+
 
 
 
