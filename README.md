@@ -1,7 +1,5 @@
-# Hi there, I'm Sara 👋
-### Full Stack Developer
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+### Hi there, I'm Sara 👋
+# Full Stack Developer   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,12 +28,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on a few Next.js Projects, including an online Pet Store
-- I'm currently learning: Next.js
-- Coming Soon to projects:
-  1. Pet Kingdom (pet store app) - Feb 2024
+- 🌱 Currently learning:  Python 3
+- 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
+- 😄 Pronouns: She/her
+- 📫 How to reach me: Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
+- ⚡ Fun fact: Passionate about logic puzzles, music creation, vintage fashion and sci-fi/fantasy fiction.
 
+## 🔭 Projects - Current Work
+### Coming Soon:
+1. NEW -  Pet Kingdom (pet store app) - collaboration -  Feb 2024
+2. UPDATES - Mood Board - New editing features - Feb 2024
+3. NEW -  Sudoku App with self-generating puzzles  - March 2024 
+4. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game - March 2024  
 
+## Also Find me on...
+- Codepen
+- Codewars
+- Medium
+- Dev
+- Linkedin
 
 
 
