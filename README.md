@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 - ⚡ Fun fact: Passionate about logic puzzles, music creation, vintage fashion and sci-fi/fantasy fiction.
 
+<br>
+
 ## 🔭 Projects - Current Work
 ### Coming Soon:
 1. NEW -  Pet Kingdom (pet store app) - collaboration -  Feb 2024
@@ -41,12 +43,9 @@ Here are some ideas to get you started:
 3. NEW -  Sudoku App with self-generating puzzles  - March 2024 
 4. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game - March 2024  
 
-## Also Find me on...
-- Codepen
-- Codewars
-- Medium
-- Dev
-- Linkedin
+<br>
+
+# Portfolio
 
 
 
