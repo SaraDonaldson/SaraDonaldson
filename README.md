@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
 - 😄 Pronouns: She/her
 - 📫 How to reach me: Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
-- ⚡ Fun fact: Passionate about logic puzzles, music creation, vintage fashion and sci-fi/fantasy fiction.
+
 
 <br>
 
