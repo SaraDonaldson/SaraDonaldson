@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently learning:  Python 3
+- 🌱 Currently learning:  Python3
 - 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
 - 😄 Pronouns: She/her
 - 📫 How to reach me: Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
@@ -45,7 +45,11 @@ Here are some ideas to get you started:
 
 <br>
 
-# Portfolio
+## 💼 Portfolio - Past Work
+1. Sudoku App (React)
+2. Mood board: with item drag and resize (React)
+3. Weather app: consuming APIs (React)
+4. Event Mate - currently no demo available, but please check out the repo
 
 
 
