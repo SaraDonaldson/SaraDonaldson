@@ -30,9 +30,15 @@ Here are some ideas to get you started:
 
 - 🌱 Currently learning:  Python3
 - 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
-- 😄 Pronouns: She/her
 - 📫 How to reach me: Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 
+<br>
+
+## 💼 Portfolio - Feature Projects
+1. Sudoku App (React)
+2. Mood board: with item drag and resize (React)
+3. Weather app: consuming APIs (React)
+4. Event Mate - currently no demo available, but please check out the repo
 
 <br>
 
@@ -43,14 +49,6 @@ Here are some ideas to get you started:
 3. NEW -  Sudoku App with self-generating puzzles  - March 2024 
 4. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game - March 2024
 5. NEW - Seeing Time - clocks to help visualise time to help ADHD time blindness - March 2024
-
-<br>
-
-## 💼 Portfolio - Past Work
-1. Sudoku App (React)
-2. Mood board: with item drag and resize (React)
-3. Weather app: consuming APIs (React)
-4. Event Mate - currently no demo available, but please check out the repo
 
 
 
