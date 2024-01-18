@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 1. NEW -  Pet Kingdom (pet store app) - collaboration -  Feb 2024
 2. UPDATES - Mood Board - New editing features - Feb 2024
 3. NEW -  Sudoku App with self-generating puzzles  - March 2024 
-4. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game - March 2024  
+4. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game - March 2024
+5. NEW - Seeing Time - clocks to help visualise time to help ADHD time blindness - March 2024
 
 <br>
 
