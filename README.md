@@ -1,6 +1,12 @@
 ### Hi there, I'm Sara 👋
 # Full Stack Developer  
 
+- From Melbourne, Australia 🇦🇺, currently living in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- 🌱 Currently learning:  Python3
+- 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
+
+<br>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -13,12 +19,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDonaldson&layout=compact)
 
+
 <!--
 **SaraDonaldson/SaraDonaldson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraDonaldson)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDonaldson&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaraDonaldson&show_icons=true&theme=radical" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDonaldson&theme=radical&layout=compact" />  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraDonaldson&theme=radical&hide_border=true&stroke=0000&background=060A0CD0">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -31,13 +41,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently learning:  Python3
-- 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
-- 📫 How to reach me: Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
+- 📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 
 <br>
 
-## 💼 Portfolio - Feature Projects
+## 💼 Feature Projects
 1. Sudoku App (React)
 2. Mood board: with item drag and resize (React)
 3. Weather app: consuming APIs (React)
@@ -45,7 +53,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🔭 Projects - Current Work
+## 🔭 Upcoming Projects - Current Work
 ### Coming Soon:
 1. NEW -  Pet Kingdom (pet store app) - collaboration -  Feb 2024
 2. UPDATES - Mood Board - New editing features - Feb 2024
