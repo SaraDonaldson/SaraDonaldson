@@ -1,7 +1,7 @@
 ### Hi there, I'm Sara 👋
 # Full Stack Developer  
 
-- From Melbourne, Australia 🇦🇺, currently living in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- Living in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, originally from Melbourne, Australia 🇦🇺
 - 🌱 Currently learning:  Python3
 - 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
 
@@ -29,6 +29,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaraDonaldson&show_icons=true&theme=radical" />
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDonaldson&theme=radical&layout=compact" />  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraDonaldson&theme=radical&hide_border=true&stroke=0000&background=060A0CD0">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaraDonaldson&show_icons=true&theme=radical" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDonaldson&theme=radical&layout=compact" />  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraDonaldson&theme=radical&hide_border=true&stroke=0000&background=060A0CD0">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -41,15 +44,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
+📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 
 <br>
 
 ## 💼 Feature Projects
-1. Sudoku App (React)
-2. Mood board: with item drag and resize (React)
-3. Weather app: consuming APIs (React)
-4. Event Mate - currently no demo available, but please check out the repo
+
+[Sudoku App](https://saradonaldson.github.io/portfolio-sudoku/) (React.js)
+<br>
+Mood board: with item drag and resize (React.js)
+<br>
+Weather app: consuming APIs (React.js)
+<br>
+Event Mate - currently no demo available, but please check out the repo
 
 <br>
 
