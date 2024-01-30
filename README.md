@@ -2,9 +2,7 @@
 # Full Stack Developer  
 
 - Living in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, originally from Melbourne, Australia 🇦🇺
-- 🌱 Currently learning:  Python3
-- 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
-
+- Creative problem solver with a passion for puzzles
 <br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,7 +43,8 @@ Here are some ideas to get you started:
 -->
 
 📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
-
+- 🌱 Currently learning:  Python3
+- 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
 <br>
 
 ## 💼 Feature Projects
