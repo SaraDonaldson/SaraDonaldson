@@ -61,18 +61,17 @@ Here are some ideas to get you started:
 <br>
 [Weather app](https://saradonaldson.github.io/portfolio-weather/): consuming APIs (React.js)
 <br>
-Event Mate - currently no demo available, but please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
+Event Mate - currently no demo, but please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
 
 <br>
 
 ## 🔭 Recent Projects 
 1. February 2nd - Mini Game - my copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
-2. Event Mate - currently no demo available, but please check out the repo
+2. Event Mate - currently no demo, please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
 
 <br>
 
-## 🔭 Upcoming Projects - Current Work
-### Coming Soon:
+## 📆 Upcoming Projects - Current Work
 Feb 2024
 1. NEW -  Pet Kingdom (pet store app) - collaboration with [CianMW](https://github.com/CianMW)
 2. UPDATES - Mood Board - New editing features - collaboration with [wennyanlin](https://github.com/wennyanlin)
