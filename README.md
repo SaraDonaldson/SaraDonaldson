@@ -1,14 +1,10 @@
 ### Hi there, I'm Sara 👋
 # Full Stack Developer  
-
-- Living in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, originally from Melbourne, Australia 🇦🇺
-- Creative problem solver with a passion for puzzles
 <br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,7 +38,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
 📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
+- Living in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, originally from Melbourne, Australia 🇦🇺
+- Creative problem solver with a passion for puzzles
 - 🌱 Currently learning:  Python3
 - 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
 <br>
@@ -51,21 +51,32 @@ Here are some ideas to get you started:
 
 [Sudoku App](https://saradonaldson.github.io/portfolio-sudoku/) (React.js)
 <br>
-Mood board: with item drag and resize (React.js)
+[Mood board](https://saradonaldson.github.io/mood-board-demo/) : with item drag and resize (React.js)
 <br>
-Weather app: consuming APIs (React.js)
+[Weather app](https://saradonaldson.github.io/portfolio-weather/): consuming APIs (React.js)
 <br>
-Event Mate - currently no demo available, but please check out the repo
+Event Mate - currently no demo available, but please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
+
+<br>
+
+## 🔭 Recent Projects 
+1. February 2nd - Mini Game - my copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
+2. Event Mate - currently no demo available, but please check out the repo
 
 <br>
 
 ## 🔭 Upcoming Projects - Current Work
 ### Coming Soon:
-1. NEW -  Pet Kingdom (pet store app) - collaboration -  Feb 2024
-2. UPDATES - Mood Board - New editing features - Feb 2024
-3. NEW -  Sudoku App with self-generating puzzles  - March 2024 
-4. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game - March 2024
-5. NEW - Seeing Time - clocks to help visualise time to help ADHD time blindness - March 2024
+Feb 2024
+1. NEW -  Pet Kingdom (pet store app) - collaboration with [CianMW](https://github.com/CianMW)
+2. UPDATES - Mood Board - New editing features - collaboration with [wennyanlin](https://github.com/wennyanlin)
+3. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
+
+March 2024 
+1. NEW -  Sudoku App with self-generating puzzles
+2. NEW - Seeing Time - clocks to help visualise time to help ADHD time blindness
+3. NEW VERSION - Event Mate - creating a slim demo version as the old version is unavailable for demo
+
 
 
 
