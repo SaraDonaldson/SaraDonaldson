@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <br>
 
 📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
-- Living in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, originally from Melbourne, Australia 🇦🇺
 - Creative problem solver with a passion for puzzles
 - 🌱 Currently learning:  Python3 
 - 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
