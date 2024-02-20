@@ -66,8 +66,9 @@ Event Mate - currently no demo, but please check out the [repo](https://github.c
 <br>
 
 ## 🔭 Recent Projects 
-1. February 2nd - Mini Game - my copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
-2. Event Mate - currently no demo, please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
+1. February - Web Scraper in Node with Puppeteer
+2. February - Mini Game - my copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
+3. Event Mate - currently no demo, please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
 
 <br>
 
