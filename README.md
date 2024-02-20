@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 - Creative problem solver with a passion for puzzles
-- 🌱 Currently learning:  Python3 
+- 🌱 Currently learning:  Python3 and Web Scraping
 - 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
 <br>
 
