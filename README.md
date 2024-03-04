@@ -73,15 +73,13 @@ Event Mate - currently no demo, but please check out the [repo](https://github.c
 <br>
 
 ## 📆 Upcoming Projects - Current Work
-Feb 2024
+2024
 1. NEW -  Pet Kingdom (pet store app) - collaboration with [CianMW](https://github.com/CianMW)
 2. UPDATES - Mood Board - New editing features - collaboration with [wennyanlin](https://github.com/wennyanlin)
 3. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
-
-March 2024 
-1. NEW -  Sudoku App with self-generating puzzles
-2. NEW - Seeing Time - clocks to help visualise time to help ADHD time blindness
-3. NEW VERSION - Event Mate - creating a slim demo version as the old version is unavailable for demo
+4. NEW -  Sudoku App with self-generating puzzles
+5. NEW - Seeing Time - clocks to help visualise time to help ADHD time blindness
+6. NEW VERSION - Event Mate - creating a slim demo version as the old version is unavailable for demo
 
 
 
