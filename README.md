@@ -65,11 +65,11 @@ Event Mate - no live demo, check out the [repo](https://github.com/CodeOp-tech/f
 
 <br>
 
-## 🔭 Recent Projects 
-1. March - Basic JS Timer 
-2. February - Web Scraper in Node with Puppeteer
-3. February - Mini Game - my copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
-4. More coming - early 2024 has been busy with client work (not visible), and large, long term collaborative projects.
+## 🔭 Recent Projects 2024
+1. Basic JS Timer 
+2. Web Scraper in Node with Puppeteer
+3. Mini Game - copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
+4. More coming - early 2024 has been busy with client work (not visible), and long term collaborative projects.
   
 
 <br>
