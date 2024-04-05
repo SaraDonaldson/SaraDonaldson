@@ -1,11 +1,11 @@
-### Hi there, I'm Sara 👋
-# Full Stack Developer  
+# Full Stack JS Developer
 <br>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 <br>
 
-📫 Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
-- Creative problem solver with a passion for puzzles
-- 🌱 Currently learning:  Python3 and Web Scraping
-- 🌱 Recently learned Next.js, TypeScript, Tailwind CSS
+-  🙌   Open to remote work (UK) and freelance opportunities
+-  📫   Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
+-  🌱   Currently learning: React Native, Google Auth, Seleninum, and Python for Web Development. 
+
 <br>
 
 ## 💼 Feature Projects
@@ -61,26 +61,34 @@ Here are some ideas to get you started:
 <br>
 [Weather app](https://saradonaldson.github.io/portfolio-weather/): consuming APIs (React.js)
 <br>
-Event Mate - currently no demo, but please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
+Event Mate - no live demo, check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
 
 <br>
 
 ## 🔭 Recent Projects 
-1. February - Web Scraper in Node with Puppeteer
-2. February - Mini Game - my copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
-3. Event Mate - currently no demo, please check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
+1. March - Basic JS Timer 
+2. February - Web Scraper in Node with Puppeteer
+3. February - Mini Game - my copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
+4. More coming - early 2024 has been busy with client work (not visible), and large, long term collaborative projects.
+  
 
 <br>
 
-## 📆 Upcoming Projects - Current Work
-2024
-1. NEW -  Pet Kingdom (pet store app) - collaboration with [CianMW](https://github.com/CianMW)
-2. UPDATES - Mood Board - New editing features - collaboration with [wennyanlin](https://github.com/wennyanlin)
-3. NEW - my version of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
-4. NEW -  Sudoku App with self-generating puzzles
-5. NEW - Seeing Time - clocks to help visualise time to help ADHD time blindness
-6. NEW VERSION - Event Mate - creating a slim demo version as the old version is unavailable for demo
+## 📆 Currently Working on ..
+1. Portfolio 2024 - Shiny new portfolio site with blog (Typescript, CMS integrations, Next.js, Vercel Deployment, Postgres)
+2. Pet Kingdom  - Pet store web app with Next.js. Collaboration with [CianMW](https://github.com/CianMW)
+3. Pet Kingdom - React Native Mobile App 
+4. Sudoku Game App - endless self-generating puzzles (Next.js with server actions, Postgres DB, Vercel Deployment)
+5. Seeing Time (web app) - clocks and timers to help neurodivergent people visualise time, managing time blindness.
+6. Mood Board Maker - new live demo version with Next.js and new features from Canva API.
+7. Web Scraper - with Python and Selenium
 
 
+<br>
 
+- 😄 Pronouns: She/her
+- 🌱 Currently learning: React Native, Google Auth, Selenium, and Python for Web Development. 
+- 🌱 Learned in 2024: Puppeteer, Web Scraping, Intermediate Python 3
+- 👯 Collaborate: I'm keen to sink my teeth into interesting projects related to my stack, especially with opportunities to experiment or learn a new skill.
+-  ⚡ About me: As a creative and eclectic individual, I thrive when working on challenges and complex interconnected systems. As a conceptual thinker, I get a kick out of identifying patterns and processes to solve problems, refine my work, and improve my life. This is how I approach development, but it also extends to my personal interests, such as music creation and story building. 
 
