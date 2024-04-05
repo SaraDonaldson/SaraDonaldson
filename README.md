@@ -89,6 +89,5 @@ Event Mate - no live demo, check out the [repo](https://github.com/CodeOp-tech/f
 - 😄 Pronouns: She/her
 - 🌱 Currently learning: React Native, Google Auth, Selenium, and Python for Web Development. 
 - 🌱 Learned in 2024: Puppeteer, Web Scraping, Intermediate Python 3
-- 👯 Collaborate: I'm keen to sink my teeth into interesting projects related to my stack, especially with opportunities to experiment or learn a new skill.
 -  ⚡ About me: As a creative and eclectic individual, I thrive when working on challenges and complex interconnected systems. As a conceptual thinker, I get a kick out of identifying patterns and processes to solve problems, refine my work, and improve my life. This is how I approach development, but it also extends to my personal interests, such as music creation and story building. 
 
