@@ -66,8 +66,8 @@ Event Mate - no live demo, check out the [repo](https://github.com/CodeOp-tech/f
 <br>
 
 ## 🔭 Recent Projects 2024
-1. Basic JS Timer 
-2. Web Scraper in Node with Puppeteer
+1. Basic [JS Timer](https://codepen.io/SaraDonaldson/pen/JjVGOeX) 
+2. [Web Scraper](https://github.com/SaraDonaldson/job-scraper) in Node with Puppeteer
 3. Mini Game - copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
 4. More coming - early 2024 has been busy with client work (not visible), and long term collaborative projects.
   
@@ -76,14 +76,8 @@ Event Mate - no live demo, check out the [repo](https://github.com/CodeOp-tech/f
 
 ## 📆 Currently Working on ..
 1. Portfolio 2024 - Shiny new portfolio site with blog (Typescript, CMS integrations, Next.js, Vercel Deployment, Postgres)
-2. Pet Kingdom  - Pet store web app with Next.js. Collaboration with [CianMW](https://github.com/CianMW)
-3. Pet Kingdom - React Native Mobile App 
-4. Sudoku Game App - endless self-generating puzzles (Next.js with server actions, Postgres DB, Vercel Deployment)
-5. Seeing Time (web app) - clocks and timers to help neurodivergent people visualise time, managing time blindness.
-6. Mood Board Maker - new live demo version with Next.js and new features from Canva API.
-7. Web Scraper - with Python and Selenium
-
-
+2. Pet Kingdom  - Pet store app with Next.js & React Native.  Collaboration with [CianMW](https://github.com/CianMW)
+3. Seeing Time - (web app) clocks and timers to help neurodivergent people visualise time, managing time blindness.
 <br>
 
 - 😄 Pronouns: She/her
