@@ -68,23 +68,8 @@ Event Mate - no live demo, check out the [repo](https://github.com/CodeOp-tech/f
 
 <br>
 
-## 🔭 Recent Projects 2024
-1. Basic [JS Timer](https://codepen.io/SaraDonaldson/pen/JjVGOeX) 
-2. [Web Scraper](https://github.com/SaraDonaldson/job-scraper) in Node with Puppeteer
-3. Mini Game - copy of [Hexcodle](https://hexcodle.com/archive/149): wurdle style Hexcode puzzle game
-4. More coming - early 2024 has been busy with client work (not visible), and long term collaborative projects.
-  
-
-<br>
-
-## 📆 Currently Working on ..
-1. Portfolio 2024 - Shiny new portfolio site with blog (Typescript, CMS integrations, Next.js, Vercel Deployment, Postgres)
-2. Pet Kingdom  - Pet store app with Next.js & React Native.  Collaboration with [CianMW](https://github.com/CianMW)
-3. Seeing Time - (web app) clocks and timers to help neurodivergent people visualise time, managing time blindness.
-<br>
 
 - 😄 Pronouns: She/her
 - 🌱 Currently learning: React Native, Google Auth, Selenium, and Python for Web Development. 
-- 🌱 Learned in 2024: Puppeteer, Web Scraping, Intermediate Python 3
 
 
