@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 
 -  🙌   Open to remote work (UK) and freelance opportunities
 -  📫   Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
--  🌱   Currently learning: React Native, Google Auth, Seleninum, and Python for Web Development. 
 
 <br>
 
@@ -67,9 +66,3 @@ Here are some ideas to get you started:
 Event Mate - no live demo, check out the [repo](https://github.com/CodeOp-tech/final-project-FS23-EventMate)
 
 <br>
-
-
-- 😄 Pronouns: She/her
-- 🌱 Currently learning: React Native, Google Auth, Selenium, and Python for Web Development. 
-
-
