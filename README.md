@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 -->
 
 <br>
--  💼   [Portfolio site](https://saradonaldson.dev), built with Next.js and Express.js 
+
+-  💼   [Portfolio site](https://saradonaldson.dev) 
 -  🙌   Open to remote and freelance Software Dev (UK) opportunities
 -  📫   Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 
