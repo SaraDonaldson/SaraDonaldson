@@ -49,14 +49,16 @@ Here are some ideas to get you started:
 -->
 
 <br>
-
--  🙌   Open to remote work (UK) and freelance opportunities
+-  💼   [Portfolio site](https://saradonaldson.dev), built with Next.js and Express.js 
+-  🙌   Open to remote and freelance Software Dev (UK) opportunities
 -  📫   Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 
 <br>
 
 ## 💼 Feature Projects
 
+[Bean Me Up - online store & coffee roaster](https://saradonaldson.dev/beanmeup/) (Next.js)
+<br>
 [Sudoku App](https://saradonaldson.github.io/portfolio-sudoku/) (React.js)
 <br>
 [Mood board](https://saradonaldson.github.io/mood-board-demo/) : with item drag and resize (React.js)
