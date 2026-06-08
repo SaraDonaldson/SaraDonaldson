@@ -18,8 +18,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDonaldson&layout=compact)
-
 
 <!--
 **SaraDonaldson/SaraDonaldson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,7 +48,7 @@ Here are some ideas to get you started:
 <br>
 
 -  💼   [Portfolio site](https://saradonaldson.dev) 
--  🙌   Open to remote and freelance Software Dev (UK) opportunities
+-  🙌   Open to remote and freelance (UK) opportunities
 -  📫   Get in touch via [Linkedin](https://www.linkedin.com/in/sara-donaldson-developer/)
 
 <br>
